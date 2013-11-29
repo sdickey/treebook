@@ -1,0 +1,11 @@
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
+
+bilbo:
+  first_name: "Bilbo"
+  last_name: "Baggins"
+  email: "coolesthobbit@theshire.com"
+  profile_name: "humblethief"
